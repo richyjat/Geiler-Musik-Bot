@@ -1,9 +1,0 @@
-BOT_TOKEN=discord bot token
-MONGODB_URI=uri for mongodb look for a free service or host yourself
-MONGODB_USER=user view above
-SPOTIFY_ID=spotify app id
-SPOTIFY_SECRET=spotify app secret
-PORT=stats port
-RESTART_PASSWORD=password to restart the bot from discord.
-LASTFM_KEY=lastfm api key
-DBL_KEY=dbl key

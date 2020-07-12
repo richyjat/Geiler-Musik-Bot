@@ -1,0 +1,9 @@
+BOT_TOKEN=NzMxODk5ODcyMjQ4MjAxMjM4.Xwsw-Q.SIwgwO_Ix3cfvY4AVpO87pU1040
+MONGODB_URI=mongodb+srv://dbadmin:admin@cluster0-rq7bz.mongodb.net/dbadmin
+MONGODB_USER=dbadmin
+SPOTIFY_ID=e5871c5e6e4941f3bb56c81a150da1e9
+SPOTIFY_SECRET=b3e7b7fb954d4fb08f6ef9836a8bbade
+PORT=8080
+RESTART_PASSWORD=password to restart the bot from discord.
+LASTFM_KEY=lastfm api key
+DBL_KEY=dbl key
